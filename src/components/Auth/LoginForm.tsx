@@ -93,6 +93,7 @@ const LoginForm = () => {
                         <Checkbox
                           checked={field.value}
                           onCheckedChange={field.onChange}
+                          className="text-white"
                         />
                       </FormControl>
                       <div className="space-y-1 leading-none">

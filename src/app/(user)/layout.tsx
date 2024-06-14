@@ -1,6 +1,6 @@
 "use client";
 import DefaultLayout from "@/components/Layout/DefaultLayout";
-import Loader from "@/components/common/Loader";
+import Loader from "@/components/Common/Loader";
 import { useEffect, useState } from "react";
 
 export default function UserLayout({

@@ -27,9 +27,7 @@ const config: Config = {
         red: "#FB5454",
         "black-2": "#010101",
         body: "#64748B",
-        bodydark: "#AEB7C0",
         bodydark1: "#DEE4EE",
-        bodydark2: "#8A99AF",
         primary: "#3C50E0",
         secondary: "#80CAEE",
         stroke: "#E2E8F0",
@@ -39,10 +37,6 @@ const config: Config = {
         "gray-3": "#FAFAFA",
         whiten: "#F1F5F9",
         whiter: "#F5F7FD",
-        boxdark: "#24303F",
-        "boxdark-2": "#1A222C",
-        strokedark: "#2E3A47",
-        "form-strokedark": "#3d4d60",
         "form-input": "#1d2a39",
         "meta-2": "#EFF2F7",
         "meta-3": "#10B981",
@@ -217,12 +211,6 @@ const config: Config = {
       aspectRatio: {
         "4/3": "4 / 3",
         "21/9": "21 / 9",
-      },
-      backgroundImage: {
-        video: "url('../images/video/video.png')",
-      },
-      content: {
-        "icon-copy": 'url("../images/icon/icon-copy-alt.svg")',
       },
       transitionProperty: { width: "width", stroke: "stroke" },
       borderWidth: {

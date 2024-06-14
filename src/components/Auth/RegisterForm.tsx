@@ -43,7 +43,7 @@ const RegisterForm = () => {
 
   return (
     <>
-      <Card className="rounded-[16px] p-[30px] bg-white drop-shadow-1">
+      <Card className="rounded-[16px] px-[30px] bg-white drop-shadow-1">
         <CardHeader>
           <CardTitle className="text-3xl">Let’s create your account</CardTitle>
           <CardDescription>
